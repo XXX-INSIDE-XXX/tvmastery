@@ -239,6 +239,7 @@ header .tell-me {
     margin-left: auto;
     width: 325px;
     padding-top: 68px;
+    margin-top: 0;
     font-weight: 700;
     font-size: 36px;
     text-transform: uppercase;
