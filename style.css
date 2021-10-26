@@ -313,6 +313,7 @@ header .tell-me {
 ::placeholder {
     font-size: 21px;
     font-weight: 400;
+    font-family: 'Roboto', sans-serif;
 }
 
 input:focus {
