@@ -88,16 +88,16 @@
     }
     
     .feature-2 {
-        display: none;
+        display: none !important;
     }
     
     
     .feature-3 {
-        display: none;
+        display: none !important;
     }
     
     .feature-4 {
-        display: none;
+        display: none !important;
     }
     
     .feature-5 {
