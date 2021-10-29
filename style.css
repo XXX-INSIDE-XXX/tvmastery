@@ -130,7 +130,7 @@ header .tell-me {
     color: white;
 }
 
-.feature-3 h1 {
+.feature-3 h6 {
     font-weight: bold;
     font-size: 36px;
     display: block;
@@ -156,7 +156,7 @@ header .tell-me {
     height: 441px;
 }
 
-.feature-4 h1 {
+.feature-4 h6 {
     font-weight: 500;
     font-size: 24px;
     display: block;
@@ -190,7 +190,7 @@ header .tell-me {
     background-color: #161616;
 }
 
-.feature-5 h1 {
+.feature-5 h6 {
     display: block;
     margin-right: auto;
     margin-left: auto;
@@ -234,7 +234,7 @@ header .tell-me {
     width: 100%;
 }
 
-.feature-6 h1 {
+.feature-6 h6 {
     display: block;
     margin-right: auto;
     margin-left: auto;
